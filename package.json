@@ -10,9 +10,9 @@
     "exceptions",
     "force"
   ],
-  "homepage": "https://github.com/dcousens/typeforce",
+  "homepage": "https://github.com/Miguel974/typeforce",
   "bugs": {
-    "url": "https://github.com/dcousens/typeforce/issues"
+    "url": "https://github.com/Miguel974/typeforce/issues"
   },
   "license": "MIT",
   "author": "Daniel Cousens",
@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcousens/typeforce.git"
+    "url": "https://github.com/Miguel974/typeforce.git"
   },
   "scripts": {
     "coverage": "nyc --check-coverage --branches 100 --functions 100 node test/*.js",
